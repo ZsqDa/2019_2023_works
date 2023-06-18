@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="homework in njust-智能科学与技术" height="64" src="">
+  homework in njust-智能科学与技术
   </a>
 </p>
 <h1 align="center">2019_2023_homework</h1>
